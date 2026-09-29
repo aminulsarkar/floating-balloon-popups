@@ -1,0 +1,96 @@
+# FLOATING BALLOON POPUPS
+
+Project Type:
+Interactive JavaScript / SVG Animation
+
+Author:
+Aminul Sarkar
+
+Website:
+https://aminulsarkar.com
+
+GitHub:
+https://github.com/aminulsarkar
+
+## DESCRIPTION
+
+Floating Balloon Popups is an interactive frontend animation built with
+HTML, CSS, JavaScript, SVG, and GSAP.
+
+Colorful balloons are dynamically generated and animated across the
+viewport. Users can click or tap a balloon to burst it and reveal an
+animated information card.
+
+Balloons can also automatically burst after completing their floating
+animation.
+
+## TECHNOLOGIES
+
+HTML5
+CSS3
+Vanilla JavaScript
+SVG
+GSAP
+Google Fonts
+
+## CORE FEATURES
+
+* Dynamically generated SVG balloons
+* Random balloon colors
+* Randomized balloon sizes
+* Randomized starting positions
+* Horizontal balloon drifting
+* Click-to-pop interaction
+* Touch interaction for mobile devices
+* Automatic balloon bursting
+* Animated SVG burst particles
+* Animated information cards
+* Closeable information cards
+* Automatic information card dismissal
+* Responsive card positioning
+* No balloon image assets required
+
+## ANIMATION FLOW
+
+1. Create a balloon using SVG.
+2. Assign a random color and scale.
+3. Position the balloon near the bottom of the viewport.
+4. Animate the balloon upward.
+5. Allow the user to click or tap the balloon.
+6. Burst the balloon.
+7. Generate animated burst particles.
+8. Display the corresponding information card.
+9. Automatically remove the card after a delay.
+
+## CUSTOMIZATION
+
+Balloon content can be changed through the JavaScript data array.
+
+Balloon colors, sizes, animation speed, spacing, particle count,
+and information card timing can also be customized.
+
+## DEPENDENCIES
+
+GSAP is required for the animation system.
+
+External libraries currently present in the original project include
+Bootstrap, Popper, jQuery, Swiper, Font Awesome, and Google Fonts.
+
+The balloon interaction itself primarily requires:
+
+* Vanilla JavaScript
+* SVG
+* GSAP
+
+Unused dependencies should be removed when creating a standalone
+version of this project.
+
+## PROJECT STATUS
+
+Completed interactive prototype / reusable frontend animation component.
+
+## AUTHOR
+
+Aminul Sarkar
+
+https://aminulsarkar.com
